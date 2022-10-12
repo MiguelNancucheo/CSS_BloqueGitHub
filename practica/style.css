@@ -1,0 +1,23 @@
+/*estilo del ninja - ejecercicio*/
+
+#dojo {
+    width: 400px;
+    height: 200px;
+    background-color: grey;
+    display: flex;
+    align-items:center;
+    /*
+        align-items:baseline;
+        align-items:center;
+        align-items:stretch;
+    */
+    justify-content:flex-start;
+    /* opciones 
+        justify-content:flex-start;
+        justify-content: flex-end;
+        justify-content: space-between;
+        justify-content: space-evenly;
+        justify-content: space-around;
+    * /
+}
+
